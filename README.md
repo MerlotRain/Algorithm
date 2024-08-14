@@ -1,9 +1,5 @@
-# tinyColor
+# Algorithm
 
 ---
 
-Implement color models and color conversions in different color spaces.
-
-Provide color ramp.
-
-Provide ArcGIS like color Sheme.
+Implementing Common Data Structures and Algorithms in C Language.
